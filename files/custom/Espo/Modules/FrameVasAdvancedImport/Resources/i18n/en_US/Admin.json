@@ -1,0 +1,8 @@
+{
+    "labels": {
+        "Advanced Import": "Advanced Import"
+    },
+    "descriptions": {
+        "advancedImport": "Rules for relating imported records through foreign fields."
+    }
+}

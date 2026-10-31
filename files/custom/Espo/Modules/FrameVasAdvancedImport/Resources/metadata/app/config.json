@@ -1,0 +1,10 @@
+{
+    "params": {
+        "advancedImportNotFoundAction": {
+            "level": "admin"
+        },
+        "advancedImportMultipleAction": {
+            "level": "admin"
+        }
+    }
+}

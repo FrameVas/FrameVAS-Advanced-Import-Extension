@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "advancedImportNotFoundAction": "If no related record matches",
+        "advancedImportMultipleAction": "If several related records match"
+    },
+    "options": {
+        "advancedImportNotFoundAction": {
+            "error": "Report the row as an error",
+            "skip": "Import the row without the relation"
+        },
+        "advancedImportMultipleAction": {
+            "error": "Report the row as an error",
+            "first": "Relate the oldest matching record"
+        }
+    },
+    "tooltips": {
+        "advancedImportNotFoundAction": "Applies when a column is mapped to a foreign field, e.g. Department (Code), and no related record has that value. Rows with an empty value are always imported without the relation.",
+        "advancedImportMultipleAction": "Applies when more than one related record has the value from the file. Matching is reliable only when the value is unique, such as a code or an external ID."
+    }
+}

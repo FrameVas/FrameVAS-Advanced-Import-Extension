@@ -1,0 +1,14 @@
+{
+    "data": {
+        "itemList": [
+            "__APPEND__",
+            {
+                "url": "#Admin/advancedImport",
+                "label": "Advanced Import",
+                "iconClass": "fas fa-file-import",
+                "description": "advancedImport",
+                "recordView": "frame-vas-advanced-import:views/admin/advanced-import"
+            }
+        ]
+    }
+}

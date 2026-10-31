@@ -1,0 +1,13 @@
+{
+    "name": "FrameVAS - Advanced Import",
+    "description": "Additional import options for records. Gives opportunity to use Foreign fields of EspoCRM for advanced import rules. English and Ukrainian included.",
+    "author": "FrameVAS - Artem Vasylenko",
+    "version": "1.0.0",
+    "acceptableVersions": [
+        ">=9.0.0"
+    ],
+    "php": [
+        ">=8.3"
+    ],
+    "releaseDate": "2026-10-27"
+}

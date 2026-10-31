@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "advancedImportNotFoundAction": {
+            "type": "enum",
+            "options": [
+                "error",
+                "skip"
+            ],
+            "default": "error",
+            "tooltip": true
+        },
+        "advancedImportMultipleAction": {
+            "type": "enum",
+            "options": [
+                "error",
+                "first"
+            ],
+            "default": "error",
+            "tooltip": true
+        }
+    }
+}

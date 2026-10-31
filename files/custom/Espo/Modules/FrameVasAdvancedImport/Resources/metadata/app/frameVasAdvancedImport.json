@@ -1,0 +1,14 @@
+{
+    "foreignFieldTypeList": [
+        "varchar",
+        "int",
+        "float",
+        "number",
+        "enum",
+        "enumInt",
+        "enumFloat",
+        "url",
+        "email",
+        "phone"
+    ]
+}

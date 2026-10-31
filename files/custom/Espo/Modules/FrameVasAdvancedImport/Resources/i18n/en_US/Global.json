@@ -1,0 +1,10 @@
+{
+    "fieldValidations": {
+        "advancedImportNotFound": "Related record not found",
+        "advancedImportAmbiguous": "Several related records match"
+    },
+    "fieldValidationExplanations": {
+        "advancedImportNotFound": "No related record has this value. Check the value in the file or create the related record first, then import the error rows again.",
+        "advancedImportAmbiguous": "More than one related record has this value, so the row can’t be related reliably. Make the value unique in the related records, or allow relating the oldest match in Administration › Advanced Import."
+    }
+}
