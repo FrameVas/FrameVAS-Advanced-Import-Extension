@@ -67,7 +67,7 @@ A non-admin user can relate records this way only if they can edit the link and 
 
 ## Uninstalling
 
-Go to **Administration → Extensions**, find **FrameVAS - Advanced Import** and click **Uninstall**. Or from the command line:
+Go to **Administration → Extensions**, find **FrameVAS - Advanced Import** and click **Uninstall**. Or from the command line.
 
 The extension's settings are removed and the standard import behaviour is restored.
 
